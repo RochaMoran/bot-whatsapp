@@ -1,14 +1,4 @@
 {
-    "DEFAULT":{
-        "replyMessage":[
-            "✌️ Bienvenido a este 🤖 CHATBOT de Whatsapp, lo primero \n",
-            "decirte que mi nombre es *Leifer Mendez*😎  \n",
-            "\n Si necesitas ver más info sobre las capacitacion tecnicas ",
-            "escribe *cursos* o *info*"
-        ],
-        "media":null,
-        "trigger":null
-    },
     "STEP_0":{
         "replyMessage":[
             "El flujo ha finalizado \n",
@@ -20,10 +10,7 @@
     },
     "STEP_1":{
         "replyMessage":[
-            "✌️ Bienvenido a este 🤖 CHATBOT de Whatsapp, lo primero \n",
-            "decirte que mi nombre es *Leifer Mendez*😎  \n",
-            "\n Si necesitas ver más info sobre las capacitacion tecnicas ",
-            "escribe *cursos* o *info*"
+            "hola de parte de un bot"
         ],
         "media":null,
         "trigger":null
