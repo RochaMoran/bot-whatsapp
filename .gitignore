@@ -5,6 +5,4 @@ chats/*
 !chats/.gitkeep
 media/*
 !media/.gitkeep
-mediaSend/*
-!mediaSend/.gitkeep
 .env
